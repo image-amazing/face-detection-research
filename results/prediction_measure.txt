@@ -1,0 +1,45 @@
+Path: ./face_imgs/0left_mid_-100x170x250/*
+Mean error: 9, 17, 19.5
+Error standard diviation: 5.33854, 11.158, 12.816
+Error Min: 10, 14, 16
+Error Max: 10, 14, 16
+Path: ./face_imgs/left_back_-140x170x350/*
+Mean error: 27.5, 21, 54.5
+Error standard diviation: 4.15331, 5.43139, 10.4043
+Error Min: 22, 16, 45
+Error Max: 25, 16, 45
+Path: ./face_imgs/left_front_-60x170x150/*
+Mean error: 2.5, 35.5, 3
+Error standard diviation: 1.5, 7.5, 2
+Error Min: 1, 28, 1
+Error Max: 1, 28, 5
+Path: ./face_imgs/mid_back_0x170x350/*
+Mean error: 13, 7, 31
+Error standard diviation: 1, 2, 0
+Error Min: 12, 5, 31
+Error Max: 14, 5, 31
+Path: ./face_imgs/mid_front_0x170x150/*
+Mean error: 1, 8, 20
+Error standard diviation: 0, 0, 0
+Error Min: 1, 8, 20
+Error Max: 1, 8, 20
+Path: ./face_imgs/mid_mid_0x170x250/*
+Mean error: 4.5, 12, 17
+Error standard diviation: 2.06155, 3.74166, 13.3041
+Error Min: 3, 6, 0
+Error Max: 8, 12, 8
+Path: ./face_imgs/right_back_140x170x350/*
+Mean error: 28.75, 5.75, 30.75
+Error standard diviation: 5.62917, 3.26917, 10.2561
+Error Min: 19, 3, 16
+Error Max: 19, 11, 16
+Path: ./face_imgs/right_front_60x170x150/*
+Mean error: 4.5, 19, 9.75
+Error standard diviation: 2.59808, 1.73205, 1.29904
+Error Min: 0, 16, 9
+Error Max: 6, 20, 9
+Path: ./face_imgs/right_mid_100x170x250/*
+Mean error: 23.5, 24, 42.75
+Error standard diviation: 8.01561, 11.811, 13.8992
+Error Min: 16, 12, 31
+Error Max: 16, 15, 31
